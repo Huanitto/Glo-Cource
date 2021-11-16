@@ -1,10 +1,10 @@
 <HTML>
 <HEAD>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="ключевые, слова" />
 <meta name="description" content="описание сайта" />
 <title>Наш сайт!</title>
 </HEAD>
-<BODY bgcolor="Green" text="Red">
-Атрибуты тега "Body"!!! 
+<BODY bgcolor="Black" text="Blue">
+Атрибуты тега "Body"!!!
 </BODY></HTML>
